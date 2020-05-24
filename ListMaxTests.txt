@@ -1,0 +1,31 @@
+GHCi, version 7.10.3: http://www.haskell.org/ghc/  :? for help
+[1 of 3] Compiling Testing          ( Testing.lhs, interpreted )
+[2 of 3] Compiling ListMax          ( ListMax.hs, interpreted )
+[3 of 3] Compiling ListMaxTests     ( ListMaxTests.hs, interpreted )
+Ok, modules loaded: ListMaxTests, Testing, ListMax.
+
+Testing ListMaxTests $Revision: 1.2 $...
+1
+      == 1
+26
+      == 26
+1
+      == 1
+26
+      == 26
+26
+      == 26
+27
+      == 27
+4
+      == 4
+99
+      == 99
+8600000
+      == 8600000
+'z'
+      == 'z'
+'u'
+      == 'u'
+Finished with 0 failures!
+Leaving GHCi.
